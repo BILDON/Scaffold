@@ -1,0 +1,7 @@
+task\scaffold\repository\TrackingRepository.class
+task\scaffold\model\TrackingNumber.class
+task\scaffold\controller\TrackierController.class
+task\scaffold\ScaffoldMainApplication.class
+task\scaffold\model\TrackingNumber$TrackingNumberBuilder.class
+task\scaffold\service\TrackingService.class
+task\scaffold\DAO\TrackingDAO.class
